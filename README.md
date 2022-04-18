@@ -7,5 +7,6 @@
 ```    
 
 - ### My Records 📊
-[![Hyein's github stats](https://github-readme-stats.vercel.app/api?username=hyein0112)](https://github.com/hyein0112) [![hyein0112's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyein0112&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyein's github stats](https://github-readme-stats.vercel.app/api?username=hyein0112)](https://github.com/hyein0112) 
+[![hyein0112's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyein0112&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
