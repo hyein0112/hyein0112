@@ -1,6 +1,6 @@
 ## Hi everyone 🙌
 
-👋 Hello, my name is Hyein Baek   
-🏫 I am attending Gwangju Software Meister High School
+👋 Hello, my name is Hyein Baek.   
+👩🏻‍💻 I am working on web development in Seoul, South Korea.
     
 
